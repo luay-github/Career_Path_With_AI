@@ -82,6 +82,7 @@ Moreover, this project has provided invaluable experience in navigating real-wor
 ## In order to run the notebook , you need to do the following :
 
 1) You have to have your own API in order to do the web-scraping
+
 **Note:** we kept the API string empty in the scraping section
 
 2) You have to run the notebook in a Azure DataBricks enviornment
