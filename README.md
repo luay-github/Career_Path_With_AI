@@ -75,6 +75,13 @@ Moreover, this project has provided invaluable experience in navigating real-wor
 
 ![Idea](https://github.com/luay-github/Career_Path_With_AI/assets/81257335/901ad7d6-880a-4a2d-b6f0-dbfdc5096296)
 
-A glimpse of a our final results :
+**A glimpse of a our final results :**
 ![Picture1](https://github.com/luay-github/Career_Path_With_AI/assets/81257335/21a0c431-657e-462c-b8f7-fa09267d30fd)
 
+
+## In order to run the notebook , you need to do the following :
+
+1) You have to have your own API in order to do the web-scraping
+**Note:** we kept the API string empty in the scraping section
+
+2) You have to run the notebook in a Azure DataBricks enviornment
