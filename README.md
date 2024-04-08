@@ -72,4 +72,6 @@ We firmly believe that our model holds significant potential for future applicat
 Throughout this project, we explored various perspectives and disciplines, enriching our understanding of the interconnected fields that shaped our journey , and we saw that project planning is valuable for delivering high-quality outcomes. 
 Moreover, this project has provided invaluable experience in navigating real-world challenges as data scientists, fostering collaboration and effective management within a diverse working environment.
 
+![Idea](https://github.com/luay-github/Career_Path_With_AI/assets/81257335/901ad7d6-880a-4a2d-b6f0-dbfdc5096296)
+
 
